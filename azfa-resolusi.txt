@@ -3,3 +3,4 @@ AZFA RESOLUSI
 -mencari sprite yang bagus untuk game saya
 -mempelajari physics dalam godot
 -mengajak adik kelas belajar membuat game
+-berhasil membuat game untuk demos
