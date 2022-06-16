@@ -1,4 +1,6 @@
 Rencana ngajar 16/06/2022
 
 Menjelaskan game Dodge-the-Creeps!
+  -Dimulai dari menjelaskan arah character, mendapatkan kecepatan, merubah posisi
 Menjelaskan beberapa dasar godot
+  -Mengenalkan AnimatedSprite dan menjelaskan beberapa properti,mengajarkan membuat tile, dan menjelaskan kinematik body
