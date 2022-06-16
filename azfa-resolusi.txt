@@ -3,3 +3,4 @@ AZFA RESOLUSI
 -mencari sprite yang bagus untuk game saya
 -mengajak adik kelas belajar membuat game
 -berhasil membuat game untuk demos
+-Hari ini menjelaskan game yang telah dibuat
